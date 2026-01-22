@@ -1,0 +1,5 @@
+{
+  "name": "Inventory File Repository",
+  "description": "A professional tool for managing Excel inventory files, converting them to Google Sheets, and tracking processing status in a centralized registry.",
+  "requestFramePermissions": []
+}
